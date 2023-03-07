@@ -9,10 +9,13 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "expo": "~47.0.8",
+    "expo": "^48.0.5",
     "expo-status-bar": "~1.4.2",
-    "react": "18.1.0",
-    "react-native": "0.70.5"
+    "react": "18.2.0",
+    "react-native": "0.71.3",
+    "react-native-fs": "^2.20.0",
+    "react-native-nfc-manager": "^3.14.2",
+    "react-native-restart": "^0.0.27"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
